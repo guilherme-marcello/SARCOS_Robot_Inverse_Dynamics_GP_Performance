@@ -6,8 +6,8 @@ This repository contains JSON files storing the performance statistics for exper
 
 The following JSON files are included:
 
-* **lineargp_performance_statistics.json:** Contains performance statistics for the Linear Gaussian Process model.
-* **nonlineargp_performance_statistics_rbf.json:** Contains performance statistics for the Non-linear Gaussian Process model with the Radial Basis Function (RBF) kernel.
+* **performance_statistics.json:** Contains performance statistics for the Linear Gaussian Process model.
+* **performance_statistics_rbf.json:** Contains performance statistics for the Non-linear Gaussian Process model with the Radial Basis Function (RBF) kernel.
 * **performance_statistics_sklearn_models_sub100.json:** Contains performance statistics for the scikit-learn models, evaluated on a subset of 100 data points.
 
 ##  Content of the JSON Files
