@@ -2,6 +2,8 @@
 
 This repository contains JSON files storing the performance statistics for experiments conducted on the SARCOS dataset, as described in the paper: "Efficient Gaussian Process Regression and Comparative Analysis for Robot Inverse Dynamics on the SARCOS Dataset".
 
+**Paper Link:** [gp_reg_inverse_dynamics_sarcos.pdf](https://web.tecnico.ulisboa.pt/guilherme.marcelo/assets/pdfs/gp_reg_inverse_dynamics_sarcos.pdf)
+
 ## Data Files
 
 The following JSON files are included:
